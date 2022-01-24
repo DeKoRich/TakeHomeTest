@@ -1,5 +1,5 @@
 # TakeHomeTest
-Creation of program which takes a string of comma seperated numbers and when applicable summarizes them into sequential ranges.
+Creation of program which takes a string of comma seperated numbers and when applicable summarizes them into sequential ranges, primarily makes use of java 8 and above functions.
 
         Input: "1,2,3,4,5,10,34,30"
 
